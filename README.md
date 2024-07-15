@@ -6,6 +6,7 @@ Estos comandos son en Linux
 
 <details>
 <summary>Comandos para el backend</summary>
+    
     - npm init // Este archivo contiene información sobre tu proyecto y las dependencias necesarias. 
     
     - nodemon cors express express-validator dontenv  morgan // Dependencias que utilizaremos en el repaso
